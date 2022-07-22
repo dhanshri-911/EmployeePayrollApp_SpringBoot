@@ -1,0 +1,13 @@
+2022-2022-07 09:15 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:55] Starting EmployeePayrollAppApplication using Java 17.0.2 on LAPTOP-661IS5UO with PID 14848 (C:\Development\SpringProject\EmployeePayrollApp\target\classes started by Dhanshri in C:\Development\SpringProject\EmployeePayrollApp)
+2022-2022-07 09:15 [DEBUG][restartedMain][c.e.e.EmployeePayrollAppApplication:56] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-2022-07 09:15 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:634] No active profile set, falling back to 1 default profile: "default"
+2022-2022-07 09:15 [ERROR][restartedMain][o.a.c.c.AprLifecycleListener:173] An incompatible version [1.1.33] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-2022-07 09:15 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-07 09:15 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:61] Started EmployeePayrollAppApplication in 3.87 seconds (JVM running for 5.033)
+2022-2022-07 09:38 [INFO][restartedMain][c.e.e.EmployeePayrollApplication:55] Starting EmployeePayrollApplication using Java 17.0.2 on LAPTOP-661IS5UO with PID 19152 (C:\Development\SpringProject\EmployeePayrollApp\target\classes started by Dhanshri in C:\Development\SpringProject\EmployeePayrollApp)
+2022-2022-07 09:38 [DEBUG][restartedMain][c.e.e.EmployeePayrollApplication:56] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-2022-07 09:38 [INFO][restartedMain][c.e.e.EmployeePayrollApplication:640] The following 1 profile is active: "dev"
+2022-2022-07 09:38 [ERROR][restartedMain][o.a.c.c.AprLifecycleListener:173] An incompatible version [1.1.33] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-2022-07 09:38 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-07 09:38 [INFO][restartedMain][c.e.e.EmployeePayrollApplication:61] Started EmployeePayrollApplication in 4.333 seconds (JVM running for 5.554)
+2022-2022-07 09:38 [INFO][restartedMain][c.e.e.EmployeePayrollApplication:14] Employee Payroll Application Started in DEV Environment
