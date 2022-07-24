@@ -162,3 +162,20 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 2022-2022-07 16:05 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 2022-2022-07 16:05 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:61] Started EmployeePayrollAppApplication in 4.229 seconds (JVM running for 5.273)
 2022-2022-07 16:05 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:14] Employee Payroll Application Started in DEV Environment
+2022-2022-07 16:27 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:55] Starting EmployeePayrollAppApplication using Java 17.0.2 on LAPTOP-661IS5UO with PID 20348 (C:\Development\SpringProject\EmployeePayrollApp\target\classes started by root in C:\Development\SpringProject\EmployeePayrollApp)
+2022-2022-07 16:27 [DEBUG][restartedMain][c.e.e.EmployeePayrollAppApplication:56] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-2022-07 16:27 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:640] The following 1 profile is active: "dev"
+2022-2022-07 16:27 [ERROR][restartedMain][o.a.c.c.AprLifecycleListener:173] An incompatible version [1.1.33] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-2022-07 16:27 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-07 16:27 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:61] Started EmployeePayrollAppApplication in 4.423 seconds (JVM running for 5.541)
+2022-2022-07 16:27 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:14] Employee Payroll Application Started in DEV Environment
+2022-2022-07 16:28 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:55] Starting EmployeePayrollAppApplication using Java 17.0.2 on LAPTOP-661IS5UO with PID 14172 (C:\Development\SpringProject\EmployeePayrollApp\target\classes started by root in C:\Development\SpringProject\EmployeePayrollApp)
+2022-2022-07 16:28 [DEBUG][restartedMain][c.e.e.EmployeePayrollAppApplication:56] Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-2022-07 16:28 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:640] The following 1 profile is active: "dev"
+2022-2022-07 16:28 [ERROR][restartedMain][o.a.c.c.AprLifecycleListener:173] An incompatible version [1.1.33] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-2022-07 16:28 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-2022-07 16:28 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:61] Started EmployeePayrollAppApplication in 4.336 seconds (JVM running for 5.322)
+2022-2022-07 16:28 [INFO][restartedMain][c.e.e.EmployeePayrollAppApplication:14] Employee Payroll Application Started in DEV Environment
+2022-2022-07 16:28 [DEBUG][http-nio-8080-exec-1][c.e.e.c.EmployeePayrollController:39] Employee DTO :EmployeePayrollDTO(name=Dejjjli , salary=31770, gender=Female, joiningDate=2022-02-10, note=Hello Rajshri!!!, profilePic=, department=[Sales])
+2022-2022-07 16:28 [DEBUG][http-nio-8080-exec-5][c.e.e.c.EmployeePayrollController:39] Employee DTO :EmployeePayrollDTO(name=Dhanshri , salary=30000, gender=Female, joiningDate=2022-03-11, note=Hello !!!, profilePic=, department=[Sales])
+2022-2022-07 16:29 [DEBUG][http-nio-8080-exec-4][c.e.e.c.EmployeePayrollController:39] Employee DTO :EmployeePayrollDTO(name=Rajshri , salary=35000, gender=Female, joiningDate=2022-03-11, note=Hello Rajshri !!!, profilePic=, department=[Manager])
