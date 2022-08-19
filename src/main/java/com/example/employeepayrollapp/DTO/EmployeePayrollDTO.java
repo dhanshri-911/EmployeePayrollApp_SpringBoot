@@ -24,11 +24,12 @@ public class EmployeePayrollDTO {
     @Pattern(regexp = "Male|Female", message = "Gender should be Male or Female")
     public String gender;
 
-    @JsonFormat(pattern = "dd MM yyyy")
-    @NotNull(message = "startDate should Not be Empty")
-    @PastOrPresent(message = "startDate should be past or present date")
-    public LocalDate joiningDate;
-    @NotEmpty(message = "Note cannot be Empty")
+    //@JsonFormat(pattern = "dd MM yyyy")
+    //@NotNull(message = "startDate should Not be Empty")
+    //@PastOrPresent(message = "startDate should be past or present date")
+   // public LocalDate joiningDate;
+    public String joiningDate;
+    //@NotEmpty(message = "Note cannot be Empty")
     public String note;
 
     public String profilePic;

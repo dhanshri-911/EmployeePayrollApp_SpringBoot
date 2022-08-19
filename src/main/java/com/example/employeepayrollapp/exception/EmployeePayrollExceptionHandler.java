@@ -30,12 +30,12 @@ public class EmployeePayrollExceptionHandler {
         return new ResponseEntity<>(responseDTO, HttpStatus.BAD_REQUEST);
     }
 
-    @ExceptionHandler(HttpMessageNotReadableException.class)
-    public ResponseEntity<ResponseDTO>handleHttpMessageNotReadableException(HttpMessageNotReadableException exception){
-        ResponseDTO responseDTO = new ResponseDTO("Date should be in the format of dd MM yyyy",
-                "Enter valid date");
-        return new ResponseEntity<>(responseDTO, HttpStatus.BAD_REQUEST);
-    }
-
-}
+//    @ExceptionHandler(HttpMessageNotReadableException.class)
+//    public ResponseEntity<ResponseDTO>handleHttpMessageNotReadableException(HttpMessageNotReadableException exception){
+//        ResponseDTO responseDTO = new ResponseDTO("Date should be in the format of dd MM yyyy",
+//                "Enter valid date");
+//        return new ResponseEntity<>(responseDTO, HttpStatus.BAD_REQUEST);
+//    }
+//
+ }
 
